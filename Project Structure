@@ -1,0 +1,16 @@
+Bangalore-Housing-Rental-Price-Analysis/
+│
+├── data/
+│   ├── raw_data.csv
+│   └── cleaned_data.csv
+│
+├── notebooks/
+│   └── EDA_Bangalore_Rent.ipynb
+│
+├── src/
+│   ├── scraping.py
+│   └── data_cleaning.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
